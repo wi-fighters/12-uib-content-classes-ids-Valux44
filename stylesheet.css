@@ -1,0 +1,12 @@
+.list-item {
+  color: blueviolet;
+}
+
+.heading,
+#small-heading {
+  color: coral;
+}
+
+#title {
+  background-color: rgba(0, 255, 255, 0.1);
+}
